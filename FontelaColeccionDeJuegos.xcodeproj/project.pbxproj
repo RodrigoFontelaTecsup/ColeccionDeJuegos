@@ -14,6 +14,7 @@
 		221051842AE867E100FA59B4 /* FontelaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 221051822AE867E100FA59B4 /* FontelaColeccionDeJuegos.xcdatamodeld */; };
 		221051862AE867E300FA59B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 221051852AE867E300FA59B4 /* Assets.xcassets */; };
 		221051892AE867E300FA59B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 221051872AE867E300FA59B4 /* LaunchScreen.storyboard */; };
+		221051912AE878F400FA59B4 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221051902AE878F400FA59B4 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		221051852AE867E300FA59B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		221051882AE867E300FA59B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2210518A2AE867E300FA59B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		221051902AE878F400FA59B4 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				221051872AE867E300FA59B4 /* LaunchScreen.storyboard */,
 				2210518A2AE867E300FA59B4 /* Info.plist */,
 				221051822AE867E100FA59B4 /* FontelaColeccionDeJuegos.xcdatamodeld */,
+				221051902AE878F400FA59B4 /* JuegosViewController.swift */,
 			);
 			path = FontelaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				221051912AE878F400FA59B4 /* JuegosViewController.swift in Sources */,
 				2210517E2AE867E100FA59B4 /* ViewController.swift in Sources */,
 				2210517A2AE867E100FA59B4 /* AppDelegate.swift in Sources */,
 				2210517C2AE867E100FA59B4 /* SceneDelegate.swift in Sources */,
